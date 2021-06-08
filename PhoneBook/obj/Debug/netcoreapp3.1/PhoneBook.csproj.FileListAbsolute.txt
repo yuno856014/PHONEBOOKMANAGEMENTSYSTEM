@@ -1,0 +1,13 @@
+D:\Học Tập\Module2_baitap\BaiTapThem\Practical6\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.exe
+D:\Học Tập\Module2_baitap\BaiTapThem\Practical6\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.deps.json
+D:\Học Tập\Module2_baitap\BaiTapThem\Practical6\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.runtimeconfig.json
+D:\Học Tập\Module2_baitap\BaiTapThem\Practical6\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.runtimeconfig.dev.json
+D:\Học Tập\Module2_baitap\BaiTapThem\Practical6\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.dll
+D:\Học Tập\Module2_baitap\BaiTapThem\Practical6\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.pdb
+D:\Học Tập\Module2_baitap\BaiTapThem\Practical6\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.csproj.AssemblyReference.cache
+D:\Học Tập\Module2_baitap\BaiTapThem\Practical6\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.AssemblyInfoInputs.cache
+D:\Học Tập\Module2_baitap\BaiTapThem\Practical6\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.AssemblyInfo.cs
+D:\Học Tập\Module2_baitap\BaiTapThem\Practical6\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.csproj.CoreCompileInputs.cache
+D:\Học Tập\Module2_baitap\BaiTapThem\Practical6\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.dll
+D:\Học Tập\Module2_baitap\BaiTapThem\Practical6\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.pdb
+D:\Học Tập\Module2_baitap\BaiTapThem\Practical6\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.genruntimeconfig.cache
